@@ -1,4 +1,4 @@
-:chart_with_upwards_trend: Big Data Scientist 
+:chart_with_upwards_trend: Data Scientist 
 
 :octocat: Biomedical Engineer
 
